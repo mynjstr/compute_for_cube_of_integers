@@ -1,0 +1,1 @@
+# lab2_compute_for_cube_of_integers
